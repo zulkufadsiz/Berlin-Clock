@@ -17,7 +17,6 @@ The Berlin Clock springboot is an example of RESTFul web service api.
 
   [![N|Solid](http://zulkufadsiz.com.tr/assets/img/logo2.png)](https://nodesource.com/products/nsolid)
 # Links   
-   [Portfolio]: <http://zulkufadsiz.com.tr/>
+[Portfolio]: <http://zulkufadsiz.com.tr/>
    [Twitter]: <http://twitter.com/zulkufadsiz>
-  
    
